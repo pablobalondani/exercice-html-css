@@ -35,8 +35,10 @@ body {
   padding: 15px 36px;
   text-align: center;
   border-radius: 8px;
+  border: 1px solid black;
 }
 .login {
+  padding: 10px;
   color: black;
 }
 .bts {
